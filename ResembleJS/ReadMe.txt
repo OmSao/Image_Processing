@@ -1,0 +1,1 @@
+Drag and Drop 2 images into the index.html and see the diff's coordinate in browser console.
